@@ -168,29 +168,29 @@ defaultContentLanguage = "en"
       photo = "https://github.com/user-attachments/assets/da80fe5c-4689-4f89-902f-0d3893290e06"
       alt = "Cleaning and shaping"
       description = "Cleaning and shaping"
-      alt_ar = ""
-      description_ar = ""
+      alt_ar = "تنظيف وتشكيل"
+      description_ar = "تنظيف وتشكيل"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/55767a83-a40a-422c-a1a8-b36b80fdd6e3"
       alt = "Cleaning and shaping of upper 6"
       description = "Cleaning and shaping of upper 6"
-      alt_ar = ""
-      description_ar = ""
+      alt_ar = "تنظيف وتشكيل ضرس علوي رقم 6"
+      description_ar = "تنظيف وتشكيل ضرس علوي رقم 6"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/f4af331a-81cf-4f88-be51-2b5f2e39ff4b"
-      alt = ""
-      description = ""
-      alt_ar = ""
-      description_ar = ""
+      alt = "Obturation"
+      description = "Obturation"
+      alt_ar = "حشو عصب"
+      description_ar = "حشو عصب"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/c240738e-6002-45aa-b87a-c86128a8bc96"
-      alt = ""
-      description = ""
-      alt_ar = ""
-      description_ar = ""
+      alt = "Pulpectomy"
+      description = "Pulpectomy"
+      alt_ar = "فتح عصب لضرس لبنى"
+      description_ar = "فتح عصب لضرس لبنى"
 
   [[params.clinical_cases]]
     enabled = true
@@ -213,10 +213,10 @@ defaultContentLanguage = "en"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/cf5544d0-7931-401c-b456-8957286fab52"
-      alt = ""
-      description = ""
-      alt_ar = ""
-      description_ar = ""
+      alt = "Class 5 in upper left central"
+      description = "Class 5 in upper left central"
+      alt_ar = "حشوة تجميلية"
+      description_ar = "حشوة تجميلية"
 
   [[params.clinical_cases]]
     enabled = true
@@ -225,10 +225,10 @@ defaultContentLanguage = "en"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/b8db5fcd-29e8-4c11-9f15-3e95ddd702d4"
-      alt = ""
-      description = ""
-      alt_ar = ""
-      description_ar = ""
+      alt = "Complete denture"
+      description = "Complete denture"
+      alt_ar = "طقم أسنان"
+      description_ar = "طقم أسنان"
 
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/11dcd0ca-3ee4-49e8-aa71-545c07ea5188"
@@ -244,10 +244,10 @@ defaultContentLanguage = "en"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/50bf1bd1-d62c-471c-b07c-c424df5da851"
-      alt = ""
-      description = ""
-      alt_ar = ""
-      description_ar = ""
+      alt = "Complete denture"
+      description = "Complete denture"
+      alt_ar = "طقم أسنان"
+      description_ar = "طقم أسنان"
       
   # Contact Section
   [params.contact]

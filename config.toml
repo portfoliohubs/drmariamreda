@@ -147,7 +147,7 @@ defaultContentLanguage = "en"
   # Clinical Cases Section
   [[params.clinical_cases]]
     enabled = true
-    category = "اندو"
+    category = "Endodontics"
     category_ar = "اندو"
     
     [[params.clinical_cases.cases]]
@@ -194,7 +194,7 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "كراون"
+    category = "crown"
     category_ar = "كراون"
     
     [[params.clinical_cases.cases]]
@@ -218,20 +218,20 @@ defaultContentLanguage = "en"
       alt_ar = "حشوة تجميلية"
       description_ar = "حشوة تجميلية"
 
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/11dcd0ca-3ee4-49e8-aa71-545c07ea5188"
+      alt = "bridge missed 5"
+      description = "bridge missed 5"
+      alt_ar = "كوبرى علوى"
+      description_ar = "كوبرى علوى"
+
   [[params.clinical_cases]]
     enabled = true
-    category = "اوبرتيف"
+    category = "operative"
     category_ar = "اوبرتيف"
     
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/b8db5fcd-29e8-4c11-9f15-3e95ddd702d4"
-      alt = "Complete denture"
-      description = "Complete denture"
-      alt_ar = "طقم أسنان"
-      description_ar = "طقم أسنان"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/11dcd0ca-3ee4-49e8-aa71-545c07ea5188"
+      photo = "https://github.com/user-attachments/assets/50bf1bd1-d62c-471c-b07c-c424df5da851"
       alt = "Esthetic class 5"
       description = "Esthetic class 5"
       alt_ar = "حشوة تجميلية"
@@ -239,11 +239,11 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "بروسيزس"
+    category = "prosthesis"
     category_ar = "بروسيزس"
     
     [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/50bf1bd1-d62c-471c-b07c-c424df5da851"
+      photo = "https://github.com/user-attachments/assets/b8db5fcd-29e8-4c11-9f15-3e95ddd702d4"
       alt = "Complete denture"
       description = "Complete denture"
       alt_ar = "طقم أسنان"

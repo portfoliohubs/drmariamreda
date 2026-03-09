@@ -1,357 +1,48 @@
-baseURL = "https://portfoliohubs.github.io/drmariamreda/"
-languageCode = "en-us"
-title = "Dr. Mariam Reda Mohamed"
-defaultContentLanguage = "en"
+any data in this config file specially has name michael nabil,مايكل نبيل and all other data change to this data:
+الاسم الكامل باللغة العربية 	الاسم الكامل باللغة الإنجليزية 	المسمى الوظيفي الحالي: (مثال: طبيب امتياز، أخصائي تجميل ، اخصائى حشو عصب)  باللغة العربية	المسمى الوظيفي الحالي: (مثال: endodontist,internship)   باللغة الإنجليزية 	الجامعة : (مثال: جامعة الزقازيق)  باللغه االعربية	الجامعة : (مثال: zagazig university)  باللغه الانجليزيه	سنة التخرج : (مثال : 2025)	  مكان العمل الحالي (مثال: مستشفى جامعة الزقازيق) باللغه العربية	  مكان العمل الحالي (ex: zagazig university hospital) باللغه الانجليزية	المهارات السريرية (Clinical Skills): (يرجى كتابة المهارات مثل: جراحة، حشو عصب، إلخ) باللغه العريبه	المهارات السريرية (Clinical Skills): (gp skills -cosmetics professional) باللغه الانجليزية	المهارات الرقمية (Digital Skills): (مثل: التصوير الطبي، استخدام برامج معينة-powerpoint) باللغه العريبه	المهارات الرقمية (Digital Skills): (cadcam-powerpoint) باللغه الانجليزية	المهارات الشخصية (Soft Skills): (مثل: إدارة الوقت، التواصل مع المرضى سن الاطفال)   باللغه العريبه	المهارات الشخصية (Soft Skills): (ex pediatric patients mangement)   باللغه الانجليزيه	الخط الزمني للمسيرة (Timeline): ( يرجى كتابة السنة والحدث، مثال: فى 2020 الدخول الى الكلية -2025: التخرج من الكلية)  باللغه العربية	الخط الزمني للمسيرة (Timeline): (start faculty of dentistry 2020 - graduated 2025 )  باللغه الانجليزية	  هل حصلت على ماجستير أو دكتوراه؟  	رقم الهاتف:	رقم الواتساب (WhatsApp):	البريد الإلكتروني الاحترافي:	روابط التواصل الاجتماعي (Social Media): (رابط فيسبوك، إنستجرام، لينكد إن) ضع فواصل بين الروابط 	عنوان العيادة/المستشفى بالتفصيل/الجامعة لطلبة الجامعة:	  موقعك على خريطة جوجل  (ضع لينك الموقع من google maps ليظهر احترافيا)
+مريم رضا محمد 	Mariam Reda Mohamed	طبيب امتياز 	Internship 	الجامعة المصرية الروسية	Egyptian Russian University 	2025	مستشفى جامعة الزقازيق	Zagazig university hospital 	حشو عصب	endodontics	التصوير الطبى 		إدارة الوقت	Time management	٢٠٢٠-	2020-2025	لا يوجد	01225941521	01225941521	mariamelhosainy46@gmail.com	https://www.instagram.com/mariam_elhosainy14?igsh=YmE0NjFtODd6M2Rn&utm_source=qr	جامعة الزقازيق 
+30.585050450356338, 31.48731656683886
 
-[params]
-  # Hero Section
-  [params.hero]
-    name = "Dr. Mariam Reda Mohamed"
-    tagline = "Internship Doctor"
-    graduation = "Graduated 2025 - Faculty of Dentistry"
-    profile_image = "https://github.com/user-attachments/assets/a6ddb029-c5c4-4f6a-9242-ff622af615c5"
-    profile_image_alt = "Profile photo of Dr. Mariam Reda Mohamed"
-    
-    [params.hero.current_position]
-      role = "Internship Doctor"
-      clinic = "Internship at Zagazig University Hospital"
 
-  [params.seo]
-    description = "Professional dental portfolio"
-    doctor_name_en = "Dr. Mariam Reda Mohamed"
-    doctor_name_ar = "د. مريم رضا محمد"
-    site_name = "Dr. Mariam Reda Mohamed"
-    og_image = ""
-    favicon_image = ""
-    twitter_handle = ""
-    keywords = [
-      "dentist",
-      "dental clinic",
-      "cosmetic dentistry",
-      "restorative dentistry",
-      "Dr. Mariam Reda Mohamed",
-      "zagazig",
-      "DENTIST IN ZAGAZIG",
-      "DENTAL CLINIC IN ZAGAZIG",
-      "DENTAL CLINIC"
-    ]
-    keywords_ar = [
-      "طبيب أسنان",
-      "عيادة أسنان",
-      "تجميل الأسنان",
-      "ترميم الأسنان",
-      "د. مريم رضا محمد",
-      "طبيب بالزقازيق",
-      "عيادة بالزقازيق",
-      "دكتور مريم رضا محمد",
-      "عيادة مريم رضا محمد",
-      "عيادة اسنان الشرقية",
-      "مريم رضا محمد اسنان"
-    ]
 
-  [params.integrations]
-    google_search_console_verification = "6VtKNI5qnSYsfjCTBMfnm9PuZjjR7aYh6crmofpS8yw"
-    google_analytics_measurement_id = ""
 
-  [params.ui]
-    [params.ui.nav]
-      profile = "Profile"
-      skills = "Skills"
-      education = "Education"
-      clinical_cases = "Clinical Cases"
-      cases_short = "Cases"
-      blog = "Blog"
-      contact = "Contact"
+ok there the links for photos put it in config file 
 
-    [params.ui.skills]
-      title = "Professional Skills"
-      clinical_title = "Clinical Skills"
-      digital_title = "Digital Skills"
-      soft_title = "Soft Skills"
+it the photos as this order 
+profile
+logo , og 
+cases 1-12
+this the links :
+![Image](https://github.com/user-attachments/assets/a6ddb029-c5c4-4f6a-9242-ff622af615c5)
 
-    [params.ui.education]
-      title = "Education & Timeline"
-      graduated_label = "Graduated"
-      career_timeline_title = "Career Timeline"
-      courses_title = "Courses & Certifications"
+no logo 
 
-    [params.ui.cases]
-      title = "Clinical Cases"
-      subtitle = "Clinical Cases Gallery"
+Cases 1-12 :
+![Image](https://github.com/user-attachments/assets/dcd271e1-c073-41b8-b60a-5095cb325e93)
+![Image](https://github.com/user-attachments/assets/12ced423-a03a-4281-9409-5611263e0cbf)
+<img width="1290" height="2796" alt="Image" src="https://github.com/user-attachments/assets/139ec3fc-154a-47a7-8758-69a2ce50a6d4" />
+![Image](https://github.com/user-attachments/assets/8ec04d21-815b-491a-bc64-57f531d1775b)
+![Image](https://github.com/user-attachments/assets/da80fe5c-4689-4f89-902f-0d3893290e06)
+![Image](https://github.com/user-attachments/assets/55767a83-a40a-422c-a1a8-b36b80fdd6e3)
+![Image](https://github.com/user-attachments/assets/f4af331a-81cf-4f88-be51-2b5f2e39ff4b)
+![Image](https://github.com/user-attachments/assets/c240738e-6002-45aa-b87a-c86128a8bc96)
+![Image](https://github.com/user-attachments/assets/cf5544d0-7931-401c-b456-8957286fab52)
+<img width="425" height="701" alt="Image" src="https://github.com/user-attachments/assets/b8db5fcd-29e8-4c11-9f15-3e95ddd702d4" />
+![Image](https://github.com/user-attachments/assets/11dcd0ca-3ee4-49e8-aa71-545c07ea5188)
+![Image](https://github.com/user-attachments/assets/50bf1bd1-d62c-471c-b07c-c424df5da851)
 
-    [params.ui.blog]
-      title = "Latest Articles"
-      subtitle = "Insights and Knowledge"
-      empty_text = "No blog posts yet"
 
-    [params.ui.contact]
-      title = "Get In Touch"
-      subtitle = "Let's connect and collaborate"
-      follow_me_title = "Follow Me"
 
-    [params.ui.labels]
-      now_working_as = "Now working as"
-      at = "at"
-      phone = "Phone"
-      whatsapp = "WhatsApp"
-      email = "Email"
-      location = "Location"
-      get_directions = "Get Directions"
-      masters_degree = "Master's Degree"
-      phd_degree = "PhD Degree"
-      rights_reserved = "All rights reserved"
 
-  # Skills Section
-  [params.skills]
-    clinical = [
-      "Endodontics"
-    ]
-    
-    digital = [
-      "Medical Photography",
-      "PowerPoint"
-    ]
-    
-    soft = [
-      "Time management"
-    ]
 
-  # Education Section
-  [params.education]
-    university = "Egyptian Russian University"
-    graduation_year = "2025"
-    
-    [params.education.master]
-      obtained = false
-      title = "Master in Oral Medicine"
-      year = ""
-    
-    [params.education.phd]
-      obtained = false
-      title = "PhD in Dental Sciences"
-      year = ""
-    
-    [[params.education.timeline]]
-      year = "2020"
-      event = "Start faculty of dentistry"
-    
-    [[params.education.timeline]]
-      year = "2025"
-      event = "Graduated from faculty of dentistry"
-    
-    # Certificates (images will be uploaded via GitHub issues)
-    # [[params.education.certificates]]
-    #   title = "Advanced Endodontics Course"
-    #   image = "cert1.jpg"
-  # Clinical Cases Section
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اندو"
-    category_ar = "اندو"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/dcd271e1-c073-41b8-b60a-5095cb325e93"
-      alt = "Access of lower 6"
-      description = "Access of lower 6"
-      alt_ar = "فتح عصب"
-      description_ar = "فتح عصب"
+there the cases section data do not use the links in this message just modify the (description and alt text)English and Arabic  and there category :
+  الصورة الشخصية: (صورة رسمية مناسبة وعالية الدقة)  	  صورة الحالة الاولى	وصف الحالة الاولى باللغه العربيه	وصف الحالة الاولى باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الثانيه	وصف الحالة الثانيه باللغه العربيه	وصف الحالة الثانيه باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الثالثه	وصف الحالة الثالثه باللغه العربيه	وصف الحالة الثالثه باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الرابعة	وصف الحالة الرابعة باللغه العربيه	وصف الحالة  الرابعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة الخامسة	وصف الحالة  الخامسة  باللغه العربيه	وصف الحالة الخامسة باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  السادسة	وصف الحالة  السادسة  باللغه العربيه	وصف الحالة  السادسة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة السابعة	وصف الحالة  السابعة  باللغه العربيه	وصف الحالة  السابعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  الثامنة	وصف الحالة  الثامنة باللغه العربيه	وصف الحالة  الثامنة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  التاسعة	وصف الحالة  التاسعة  باللغه العربيه	وصف الحالة  التاسعة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة العاشرة	وصف الحالة  العاشرة  باللغه العربيه	وصف الحالة  العاشرة  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة  الحالة ال 11	وصف الحالة  ال 11  باللغه العربيه	وصف الحالة  ال 11  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....)	  صورة الحالة  ال 12	وصف الحالة  ال 12  باللغه العربيه	وصف الحالة  ال 12  باللغه الانجليزيه	القسم الذى تنتمى اليه الحاله (اندو -اوبرتيف-بروسيزس-كراون-امبلانت-....):
+https://drive.google.com/open?id=1WuctsEyq2s1Sy6EmK-BBg5aiB0vkpGO1	فتح عصب	Access of lower 6	اندو 	https://drive.google.com/open?id=1oPXDK0WmOJOuV8Plw2wxOIVzaHyNzoFv	فتح عصب ضرس علوى 	Access cavity of upper 6	اندو	https://drive.google.com/open?id=1qe1VT1wpxvV7Vq2SS_dZZF07rEycJHJ8	كوبرى   	bridge and onlay (mouth rehabilitation)	كراون	https://drive.google.com/open?id=1IglU8kLu2plHDpq3iM1B7DjbwLGQCtU9	كوبرى 	Bridge	كراون	https://drive.google.com/open?id=1EI9LCUXRHzdZA5afxApl07-mw-H4cwfv		Cleaning and shaping	اندو	https://drive.google.com/open?id=1YnSxuBDVs2990Z9ZsDQMm2IXLVEMysru		Cleaning and shaping of upper 6	اندو	https://drive.google.com/open?id=1xLgqBI-tlL1r1bZ9SShndtCYFRJjpA7L	حشو عصب 	Obturation	اندو 	https://drive.google.com/open?id=1IQD7iQJTLBAhyOz7CNcZSQlJUkUwgfvT	فتح عصب لضرس لبنى 	Pulpectomy	بيدو	https://drive.google.com/open?id=124xRGm4bjnB0Y1NgnCJDDXGDpL1X_TX7	حشوة تجميلية	Class 5 in upper left central	اوبرتيف	https://drive.google.com/open?id=1kBBieCl-gSQpUQ6J_AoV4WN78xqb1twJ	طقم أسنان 	Complete denture	بروسيزس	https://drive.google.com/open?id=19x0j5U4g2g8a6SJaUcdL2_4ubTbLGs0f	كوبرى علوى 	bridge missed 5	كراون	https://drive.google.com/open?id=1jmRwEejirYmLbBhMEQ7efS6Q773ujRWN	حشوة تجميلية	Esthetic class 5	اوبرتيف
 
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/12ced423-a03a-4281-9409-5611263e0cbf"
-      alt = "Access cavity of upper 6"
-      description = "Access cavity of upper 6"
-      alt_ar = "فتح عصب ضرس علوى"
-      description_ar = "فتح عصب ضرس علوى"
 
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/da80fe5c-4689-4f89-902f-0d3893290e06"
-      alt = "Cleaning and shaping"
-      description = "Cleaning and shaping"
-      alt_ar = ""
-      description_ar = ""
+it is seo data to use in config file :
+دكتور مريم الحسينى 
 
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/55767a83-a40a-422c-a1a8-b36b80fdd6e3"
-      alt = "Cleaning and shaping of upper 6"
-      description = "Cleaning and shaping of upper 6"
-      alt_ar = ""
-      description_ar = ""
+do this changes step by step accuratly and double check that there is no michael nabil or مايكل نبيل
 
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/1xLgqBI-tlL1r1bZ9SShndtCYFRJjpA7L"
-      alt = "Obturation"
-      description = "Obturation"
-      alt_ar = "حشو عصب"
-      description_ar = "حشو عصب"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/1IQD7iQJTLBAhyOz7CNcZSQlJUkUwgfvT"
-      alt = "Pulpectomy"
-      description = "Pulpectomy"
-      alt_ar = "فتح عصب لضرس لبنى"
-      description_ar = "فتح عصب لضرس لبنى"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "كراون"
-    category_ar = "كراون"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/139ec3fc-154a-47a7-8758-69a2ce50a6d4"
-      alt = "bridge and onlay (mouth rehabilitation)"
-      description = "bridge and onlay (mouth rehabilitation)"
-      alt_ar = "كوبرى"
-      description_ar = "كوبرى"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/8ec04d21-815b-491a-bc64-57f531d1775b"
-      alt = "Bridge"
-      description = "Bridge"
-      alt_ar = "كوبرى"
-      description_ar = "كوبرى"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/19x0j5U4g2g8a6SJaUcdL2_4ubTbLGs0f"
-      alt = "bridge missed 5"
-      description = "bridge missed 5"
-      alt_ar = "كوبرى علوى"
-      description_ar = "كوبرى علوى"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اوبرتيف"
-    category_ar = "اوبرتيف"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/124xRGm4bjnB0Y1NgnCJDDXGDpL1X_TX7"
-      alt = "Class 5 in upper left central"
-      description = "Class 5 in upper left central"
-      alt_ar = "حشوة تجميلية"
-      description_ar = "حشوة تجميلية"
-
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/11dcd0ca-3ee4-49e8-aa71-545c07ea5188"
-      alt = "Esthetic class 5"
-      description = "Esthetic class 5"
-      alt_ar = "حشوة تجميلية"
-      description_ar = "حشوة تجميلية"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "بروسيزس"
-    category_ar = "بروسيزس"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/1kBBieCl-gSQpUQ6J_AoV4WN78xqb1twJ"
-      alt = "Complete denture"
-      description = "Complete denture"
-      alt_ar = "طقم أسنان"
-      description_ar = "طقم أسنان"
-      
-  # Contact Section
-  [params.contact]
-    phone = "01225941521"
-    whatsapp = "01225941521"
-    email = "mariamelhosainy46@gmail.com"
-    instagram = "https://www.instagram.com/mariam_elhosainy14?igsh=YmE0NjFtODd6M2Rn&utm_source=qr"
-    facebook = ""
-    linkedin = ""
-    
-    [params.contact.location]
-      enabled = true
-      address = "Zagazig University Hospital"
-      latitude = "30.585050450356338"
-      longitude = "31.48731656683886"
-
-# Arabic Translations
-[params.ar]
-  [params.ar.hero]
-    name = "د. مريم رضا محمد"
-    tagline = "طبيب امتياز"
-    graduation = "تخرج 2025 - كلية طب الأسنان"
-    profile_image_alt = "صورة الملف الشخصي للدكتور مريم رضا محمد"
-    
-    [params.ar.hero.current_position]
-      role = "طبيب امتياز"
-      clinic = "طبيب امتياز في مستشفى جامعة الزقازيق"
-  
-[params.ar.skills]
-    clinical = [
-      "حشو عصب"
-    ]
-    
-    digital = [
-      "التصوير الطبى",
-      "PowerPoint"
-    ]
-    
-    soft = [
-      "إدارة الوقت"
-    ]
-    
-  
-  [params.ar.education]
-    university = "الجامعة المصرية الروسية"
-    
-    [params.ar.education.master]
-      title = "ماجستير في طب الفم"
-    
-    [params.ar.education.phd]
-      title = "دكتوراه في علوم الأسنان"
-    
-    [[params.ar.education.timeline]]
-      event = "2020 الدخول الى الكليه"
-    
-    [[params.ar.education.timeline]]
-      event = "2025 التخرج من الكليه"  
-
-  [params.ar.contact.location]
-    address = "مستشفى جامعة الزقازيق"
-
-  [params.ar.ui]
-    [params.ar.ui.nav]
-      profile = "الملف الشخصي"
-      skills = "المهارات"
-      education = "التعليم"
-      clinical_cases = "الحالات السريرية"
-      cases_short = "الحالات"
-      blog = "المدونة"
-      contact = "التواصل"
-
-    [params.ar.ui.skills]
-      title = "المهارات المهنية"
-      clinical_title = "المهارات السريرية"
-      digital_title = "المهارات الرقمية"
-      soft_title = "المهارات الشخصية"
-
-    [params.ar.ui.education]
-      title = "التعليم والخط الزمني"
-      graduated_label = "تخرج"
-      career_timeline_title = "الخط الزمني المهني"
-      courses_title = "الدورات والشهادات"
-
-    [params.ar.ui.cases]
-      title = "الحالات السريرية"
-      subtitle = "معرض الحالات السريرية"
-
-    [params.ar.ui.blog]
-      title = "أحدث المقالات"
-      subtitle = "رؤى ومعرفة"
-      empty_text = "لا توجد مقالات بعد. أضف أول مقال في config.toml"
-
-    [params.ar.ui.contact]
-      title = "تواصل معي"
-      subtitle = "لنتواصل ونتعاون"
-      follow_me_title = "تابعني"
-
-    [params.ar.ui.labels]
-      now_working_as = "أعمل حالياً ك"
-      at = "في"
-      phone = "الهاتف"
-      whatsapp = "واتساب"
-      email = "البريد"
-      location = "الموقع"
-      get_directions = "احصل على الاتجاهات"
-      masters_degree = "درجة الماجستير"
-      phd_degree = "درجة الدكتوراه"
-      rights_reserved = "جميع الحقوق محفوظة"
+finally check no repeated cases category name

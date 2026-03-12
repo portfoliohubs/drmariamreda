@@ -252,7 +252,7 @@ defaultContentLanguage = "en"
   # Contact Section
   [params.contact]
     phone = "01225941521"
-    whatsapp = "01225941521"
+    whatsapp = "+201225941521"
     email = "mariamelhosainy46@gmail.com"
     instagram = "https://www.instagram.com/mariam_elhosainy14?igsh=YmE0NjFtODd6M2Rn&utm_source=qr"
     facebook = ""
